@@ -74,7 +74,7 @@ public class Game1 : Game
                 Cloudsama[i].Y = r.Next(0, GraphicsDevice.Viewport.Height - 112);
             }
         }
-
+        //GGEZ
         base.Update(gameTime);
     }
 
